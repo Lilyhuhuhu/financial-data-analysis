@@ -18,10 +18,6 @@ __pycache__/
 .venv/
 venv/
 
-# Private student submissions and local archives
-2025MF班《金融数据分析》作业-胡老师/
-*.zip
-
 # Oversized local corpora and generated model artifacts
 05-金融文本分析/**/data/mda10-20.xlsx
 05-金融文本分析/**/data/w2v_corpus.txt
@@ -30,6 +26,3 @@ venv/
 # Generated analysis outputs
 05-金融文本分析/**/output/
 05-金融文本分析/**/datanew/output/
-
-# Identifiable student work
-06-课程作业/
